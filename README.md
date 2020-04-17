@@ -5,7 +5,7 @@ If you have Dell XPS (Older versions like L322,L321,L322x,etc), you may notice t
 If you turn the touchpad off, you may find that it's so difficult to enable the touchpad again or even you need a mouse to do this.
 This Program ease your tasks and it makes hotkey for your Touchpad and you can Enable/Disable your touchpad without any difficulties.
 
-![Dell XPS13 keyboard Older Version](http://uupload.ir/files/phvl_p3114125.jpg)
+![Dell XPS13 keyboard Old Version](https://i.imgur.com/rZMqmYW.jpg)
 
 # Instruction
 1. Download the file
